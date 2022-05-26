@@ -6,3 +6,5 @@ Has buttons for "Choose File", "Play", "Pause", "Stop", "Slower", "Faster", "Ski
 Will activate as Fullscreen on Double Click.
 
 Languages and tools used: Java, JavaFX, Maven.
+
+To create an executable JAR use for example the Apache Maven Shade Plugin and add the dependency to the POM file.
